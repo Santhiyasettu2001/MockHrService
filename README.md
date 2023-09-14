@@ -1,0 +1,2 @@
+# MockHrService
+MockHrservice in mendix
